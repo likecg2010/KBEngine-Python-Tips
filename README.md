@@ -1,6 +1,11 @@
 KBEngine-Python-Tips
 ===================================
 
+github地址（海外）:https://github.com/likecg2010/KBEngine-Python-Tips
+
+开源中国地址(中国镜像):http://git.oschina.net/likecg/KBEngine-Python-Tips
+
+
 
 这个项目是为了给KBEngine服务端编写Python脚本的时候，让IDE有语法提示。
 
